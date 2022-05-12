@@ -1,9 +1,9 @@
-//SE CARGA UNO POR UNO POST http://localhost:8084/api/creditaccount
+//SE CARGA UNO POR UNO POST http://localhost:8084/creditaccount
     
     {
         "accountNumber": "123-1645655674-03",
         "codeClient": "43462534",
-        "typeCredit": {
+        "typeAccount": {
             "id": 6,
             "description": "TARJETA DE CREDITO"
         },
@@ -27,7 +27,7 @@
     {
         "accountNumber": "123-1645655675-03",
         "codeClient": "1798285937001",
-        "typeCredit": {
+        "typeAccount": {
             "id": 6,
             "description": "TARJETA DE CREDITO"
         },

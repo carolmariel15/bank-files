@@ -1,11 +1,8 @@
-//SE CARGA UNO POR UNO POST  http://localhost:8085/api/transaction
+//SE CARGA UNO POR UNO POST  http://localhost:8085/transaction
 
 {
 
-    "typeTransaction": {
-        "id": 2,
-        "description": "CUENTA DEBITO"
-    },
+    "idTypeAccount": 1,
     "numberCard": "1282112128282920",
     "typeCard": 1,
     "codeClient": "43462534",
@@ -27,10 +24,7 @@
 
 {
 
-    "typeTransaction": {
-        "id": 2,
-        "description": "CUENTA DEBITO"
-    },
+    "idTypeAccount": 1,
     "numberCard": "1282112128282920",
     "typeCard": 1,
     "codeClient": "43462534",
@@ -52,10 +46,7 @@
 
 
 {
-    "typeTransaction": {
-        "id": 3,
-        "description": "CUENTA CREDITO"
-    },
+    "idTypeAccount": 9,
     "numberCard": "12121239283938293",
     "typeCard": 1,
     "codeClient": "1798285937001",
